@@ -1,0 +1,501 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2,usage
+147739,Mycodryl Syrup,42.0,False,Santiago Lifesciences Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ammonium Chloride (138mg/5ml) , Sodium Citrate (57.03mg/5ml) ,General Medicine / Not Classified
+234400,Vildapin 50mg Tablet,120.0,False,Manith Healthcare Pvt Ltd,allopathy,strip of 15 tablets,Vildagliptin (50mg),,General Medicine / Not Classified
+177884,Propol 20mg Tablet,27.0,False,Lifecare Neuro Products Ltd,allopathy,strip of 10 tablets,Propranolol (20mg),,General Medicine / Not Classified
+32579,B Cef DS Syrup,52.0,False,Welisynth Pharmaceuticals,allopathy,bottle of 30 ml Syrup,Cefixime (50mg/5ml),,General Medicine / Not Classified
+49479,Chophos 200mg Injection,45.0,False,Intas Pharmaceuticals Ltd,allopathy,vial of 1 Injection,Cyclophosphamide (200mg),,General Medicine / Not Classified
+50506,C-Tech 1000mg Injection,78.0,False,Malar Healthcare,allopathy,vial of 1 Powder for Injection,Ceftriaxone (1000mg),,General Medicine / Not Classified
+160308,Nimuwin Plus Suspension,7.7,False,Makers Laboratories Ltd,allopathy,bottle of 60 ml Suspension,Nimesulide (50mg) , Paracetamol (125mg),General Medicine / Not Classified
+9559,Arclav DS Dry Syrup,125.0,False,RSR Healthcare,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml),Antibiotic - Treats bacterial infections
+184745,Rosuless-F Tablet,173.9,False,Corona Remedies Pvt Ltd,allopathy,strip of 10 tablets,Fenofibrate (160mg) , Rosuvastatin (10mg),General Medicine / Not Classified
+239328,Varmox-CV 228.5 Tablet DT,63.0,False,Varenyam Healthcare Pvt Ltd,allopathy,strip of 6 tablet dt,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg),Antibiotic - Treats bacterial infections
+50093,Claxin CV 500 mg/125 mg Tablet,153.0,False,Prescription Medicines Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+27076,Brucet 400 mg/333 mg Tablet,8.75,True,Micro Labs Ltd,allopathy,strip of 10 tablets,Ibuprofen (400mg) , Paracetamol (333mg),General Medicine / Not Classified
+45675,Cnl Plus 0.25 mg/20 mg Tablet,42.5,False,Clyde Biotech  P  Ltd,allopathy,strip of 10 tablets,Alprazolam (0.25mg) , Fluoxetine (20mg),General Medicine / Not Classified
+247357,Zedonac 50 mg/500 mg Tablet,22.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (500mg),General Medicine / Not Classified
+202698,Sit DC-M 1000 Tablet,127.0,False,FDC Ltd,allopathy,strip of 15 tablets,Sitagliptin  (50mg) ,  Metformin (1000mg),General Medicine / Not Classified
+37759,Closum 10mg Tablet MD,67.69,False,Lifecare Innovations Pvt Ltd,allopathy,strip of 10 tablet md,Clobazam (10mg),,General Medicine / Not Classified
+78115,Etudolo MR 400mg/4mg Tablet,206.0,False,Unimarck Healthcare Ltd,allopathy,strip of 10 tablets,Etodolac (400mg) , Thiocolchicoside (4mg),General Medicine / Not Classified
+90706,Forecold Tablet,10.81,False,Moxy Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Caffeine (30mg) , Chlorpheniramine Maleate (25mg) ,General Medicine / Not Classified
+198276,Realb Syrup,22.0,False,Cinerea Biotech Pvt Ltd,allopathy,bottle of 10 ml Syrup,Albendazole (400mg),,General Medicine / Not Classified
+183422,Q Mox CV Dry Syrup,52.9,False,Que Pharma Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg),Antibiotic - Treats bacterial infections
+118535,Ketonac 2% Cream,62.0,False,Sonixa Lifecare,allopathy,tube of 15 gm Cream,Ketoconazole (2% w/w),,General Medicine / Not Classified
+148813,Merohospi 500mg Injection,1562.5,False,Themis Medicare Ltd,allopathy,vial of 1 Injection,Meropenem (500mg),,General Medicine / Not Classified
+1184,Acera 20 Capsule,90.65,False,Ipca Laboratories Ltd,allopathy,strip of 10 capsules,Rabeprazole (20mg),,General Medicine / Not Classified
+244963,Xappy-DR 80mg/250mg Tablet,49.9,False,Sanify Healthcare Pvt  Ltd,allopathy,strip of 10 tablets,Drotaverine (80mg) , Mefenamic Acid (250mg),General Medicine / Not Classified
+250168,Zonflox-OZ Tablet,117.0,False,NV Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg),General Medicine / Not Classified
+220647,Trihexol 5mg Tablet,10.0,False,Chicky Pharma Pvt  Ltd,allopathy,strip of 10 tablets,Trihexyphenidyl (5mg),,General Medicine / Not Classified
+67322,Decsir-P 50mg/500mg/10mg Tablet,58.0,False,Mits Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (500mg) ,General Medicine / Not Classified
+151576,Nisu 100mg Tablet,19.0,False,Welkind Pharma,allopathy,strip of 10 tablets,Nimesulide (100mg),,General Medicine / Not Classified
+2706,Arofen Plus Gel,78.68,False,Makers Laboratories Ltd,allopathy,tube of 30 gm Gel,Diclofenac diethylamine (1.16% w/w) , Linseed Oil (3% w/w) ,General Medicine / Not Classified
+50056,Citiwat Plus 500mg/800mg Tablet,592.0,False,Watran Pharmaceuticals Pvt. Ltd.,allopathy,strip of 10 tablets,Citicoline (500mg) , Piracetam (800mg),General Medicine / Not Classified
+28507,Bixro 16mg Tablet,75.5,False,Aamorb Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Betahistine (16mg),,General Medicine / Not Classified
+226777,Tazo C 250mg/31.25mg Injection,48.0,False,Beulah Biomedics Ltd,allopathy,vial of 1 Powder for Injection,Ceftriaxone (250mg) , Tazobactum (31.25mg),General Medicine / Not Classified
+84568,Folviz-Plus Tablet,240.0,False,Chemo Healthcare Pvt Ltd,allopathy,strip of 10 tablets,L-Methyl Folate (2.8mg) , Methylcobalamin (2mcg) ,General Medicine / Not Classified
+63803,Doxycred-LB 100 Capsule,72.0,False,Lifecred Healthcare Pvt. Ltd.,allopathy,strip of 10 capsules,Doxycycline (100mg) , Lactobacillus (60Million spores),General Medicine / Not Classified
+25005,Amidox 500mg Injection,55.6,False,Catholicon Pharmaceuticals Pvt Ltd,allopathy,vial of 2 ml Injection,Amikacin (500mg),,General Medicine / Not Classified
+102774,Goncid Suspension Mango Sugar Free,80.0,False,Unikind Pharma,allopathy,bottle of 170 ml Suspension,Magaldrate (400mg/5ml) , Simethicone (20mg/5ml),General Medicine / Not Classified
+77842,Ebaset 20mg Tablet,52.38,False,Kivi Labs Ltd,allopathy,strip of 10 tablets,Ebastine (20mg),,General Medicine / Not Classified
+41039,Cefabest SB Injection,135.0,False,Balsons Pharmaceutical,allopathy,vial of 1 Injection,Cefoperazone (500mg) , Sulbactam (500mg),General Medicine / Not Classified
+224513,Txr 250 Tablet,180.0,False,Servocare Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Tranexamic Acid (250mg),,General Medicine / Not Classified
+148568,Metclav 1.2gm Injection,137.0,False,Medishri Healthcare,allopathy,vial of 1 Injection,Amoxycillin  (1000mg) ,  Clavulanic Acid (200mg),Antibiotic - Treats bacterial infections
+25963,Baga-NT Tablet,426.8,False,Eris Lifesciences Ltd,allopathy,strip of 15 tablets,Gabapentin (400mg) , Nortriptyline (10mg),General Medicine / Not Classified
+17657,Azitime 200mg Dry Syrup,85.0,False,Remedial Healthcare,allopathy,bottle of 30 ml Dry Syrup,Azithromycin (200mg),,Antibiotic - Treats respiratory and skin infections
+73593,Etirest 0.25mg Tablet,71.9,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Etizolam (0.25mg),,General Medicine / Not Classified
+1697,ALPRAQUIL 0.5 MG TABLET,22.0,True,Lupin Ltd,allopathy,strip of 10 tablets,Alprazolam (0.5mg),,General Medicine / Not Classified
+152893,Neocold AF Syrup,65.0,False,Loremchem Pharmaceutical,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2mg/5ml) , Phenylephrine (5mg/5ml),General Medicine / Not Classified
+192846,Ritham 10mg Tablet,70.0,False,Beulah Biomedics Ltd,allopathy,strip of 10 tablets,Rupatadine (10mg),,General Medicine / Not Classified
+121153,Lidozone  Ear Drop,129.0,False,Delcure Life Sciences,allopathy,bottle of 10 ml Ear Drop,Lidocaine (1% w/v) , Phenazone (4% w/v),General Medicine / Not Classified
+113798,Ifytrox-TB 250mg/31.25mg Injection,45.0,False,Sanify Healthcare Pvt  Ltd,allopathy,vial of 1 Powder for Injection,Ceftazidime (250mg) , Tazobactum (31.25mg),General Medicine / Not Classified
+161907,Olmezest 10 Tablet,87.5,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (10mg),,General Medicine / Not Classified
+230068,Torp-E 10mg/10mg Tablet,89.0,False,Pax Healthcare,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Ezetimibe (10mg),General Medicine / Not Classified
+11513,Adflam 100mg/500mg Tablet,38.0,False,Stanford Organics Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg),General Medicine / Not Classified
+73090,Expavon 6% Infusion,598.0,False,Neon Laboratories Ltd,allopathy,bottle of 500 ml Infusion,Hydroxyethyl Starch(HES) (6% w/v),,General Medicine / Not Classified
+36135,Citirut-M Tablet,90.0,False,Trumac Healthcare,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg),General Medicine / Not Classified
+42620,Cefaday 250mg Injection,38.82,False,Talent Healthcare,allopathy,vial of 1 Injection,Ceftriaxone (250mg),,General Medicine / Not Classified
+26526,Broncho Tussin LS Drop,40.0,False,Synchem Lab,allopathy,packet of 15 ml Oral Drops,Ambroxol (7.5mg/ml) , Levosalbutamol (0.25mg/ml) ,Expectorant - Helps clear mucus from airways
+60499,Duphill 100mg Syrup,75.0,False,Leeford Healthcare Ltd,allopathy,bottle of 100 ml Syrup,Doxofylline (100mg),,General Medicine / Not Classified
+97599,Get IT Plus  Tablet,109.9,False,Lifeline Remedies India Pvt Ltd,allopathy,strip of 10 tablets,Lactobacillus (120Million spores) , Ofloxacin (200mg) ,General Medicine / Not Classified
+121592,Lamifin Tablet,110.0,False,Canixa Life Sciences Pvt,allopathy,strip of 7 tablets,Terbinafine (250mg),,General Medicine / Not Classified
+15545,AD Para 100mg/325mg Tablet,45.0,False,Rbs Pharmaceutical,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),General Medicine / Not Classified
+94213,Gutron 2.5mg Tablet,1455.0,False,Bluemed Pharma Pvt Ltd,allopathy,strip of 20 tablets,Midodrine (2.5mg),,General Medicine / Not Classified
+185748,Roxylab 150mg Tablet,60.0,False,Laborate Pharmaceuticals India Ltd,allopathy,strip of 10 tablets,Roxithromycin (150mg),,General Medicine / Not Classified
+15308,Atubri 500mg Tablet,1730.77,False,Pfizer Ltd,allopathy,strip of 10 tablets,Capecitabine (500mg),,General Medicine / Not Classified
+216649,T-Stat 100mg Injection,71.14,False,Mercury Laboratories Ltd,allopathy,vial of 5 ml Injection,Tranexamic Acid (100mg),,General Medicine / Not Classified
+126053,Levenac P 100mg/325mg Tablet,29.0,False,Levenr Pharma,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),General Medicine / Not Classified
+33637,Biomoxi 0.5% Eye Drop,90.0,False,Biodiscovery Lifesciences Pvt Ltd,allopathy,bottle of 5 ml Eye Drop,Moxifloxacin (0.5% w/v),,General Medicine / Not Classified
+154538,Nervduce NT 400mg/10mg Tablet,198.0,False,Genome Therapeutics Corporation,allopathy,strip of 10 tablets,Gabapentin (400mg) , Nortriptyline (10mg),General Medicine / Not Classified
+76403,Exermet GZ 60mg/500mg Tablet,63.13,False,Cipla Ltd,allopathy,strip of 10 tablets,Gliclazide (60mg) , Metformin (500mg),General Medicine / Not Classified
+133089,Lebbeck Plus 10mg/5mg/200mg Tablet SR,181.0,False,Advance Revive,allopathy,strip of 10 tablet sr,Montelukast (10mg) , Levocetirizine (5mg) ,General Medicine / Not Classified
+11034,Arthrox 500mg Tablet,73.0,False,Apple Biotech,allopathy,strip of 10 tablets,Erythromycin (500mg),,General Medicine / Not Classified
+62204,Dicka MR Capsule,190.0,False,Indian Drugs & Pharmaceuticals Ltd,allopathy,strip of 10 capsule mr,Diclofenac (50mg) , Serratiopeptidase (10mg),General Medicine / Not Classified
+252557,Zifrocin Oral Suspension,90.0,False,Fortune Labs,allopathy,bottle of 30 ml Oral Suspension,Azithromycin (250mg),,Antibiotic - Treats respiratory and skin infections
+10924,Akucof M Syrup,67.5,False,Akunez Biotech,allopathy,bottle of 100 ml Syrup,Bromhexine (2mg) , Guaifenesin (50mg) ,General Medicine / Not Classified
+227040,Tynex 250mg Tablet,180.0,False,Swakam Biotech Private Limited,allopathy,strip of 10 tablets,Terbinafine (250mg),,General Medicine / Not Classified
+120270,Krondec 50mg Injection,145.0,False,Krontec Healthcare,allopathy,vial of 1 Injection,Nandrolone Decanoate (50mg),,General Medicine / Not Classified
+103644,Genlapril 2.5mg Tablet,18.0,False,Genozed Formulations,allopathy,strip of 10 tablets,Enalapril (2.5mg),,General Medicine / Not Classified
+195549,Raplor P Tablet,45.0,False,Zyphar's Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Lornoxicam (4mg) , Paracetamol (325mg),General Medicine / Not Classified
+157353,Nexval 500mg Tablet CR,124.0,False,Nexkem Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet cr,Sodium Valproate (500mg),,General Medicine / Not Classified
+47796,Canvas A 5mg/50mg Tablet,39.0,False,Canipla Care,allopathy,strip of 10 tablets,Amlodipine (5mg) , Atenolol (50mg),General Medicine / Not Classified
+91521,Flucnex 150 Tablet,32.0,False,Doctomed,allopathy,strip of 3 tablets,Fluconazole (150mg),,General Medicine / Not Classified
+58130,Clavnox 1000mg/200mg Injection,144.0,False,Magma Allianz Laboratories Ltd,allopathy,vial of 1 Injection,Amoxycillin  (1000mg) ,  Clavulanic Acid (200mg),Antibiotic - Treats bacterial infections
+43019,Clearflam 50mg Tablet,21.39,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg),,General Medicine / Not Classified
+201625,Sylcoff-D Syrup Sugar Free,120.0,False,Srigen Pharmaceuticals,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) ,General Medicine / Not Classified
+6470,ALZOLAM 1.5 MG TABLET SR,51.0,True,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablet sr,Alprazolam (1.5mg),,General Medicine / Not Classified
+195988,Relicin 500mg Injection,65.0,False,Rowlinges Life Science,allopathy,vial of 1 Injection,Amikacin (500mg),,General Medicine / Not Classified
+172789,Olancia Rapitab 10mg Tablet,49.0,False,Chemo Biological,allopathy,strip of 10 tablets,Olanzapine (10mg),,General Medicine / Not Classified
+71401,Deltaflox OR Oral Suspension,39.0,False,Mecado Healthcare Pvt Ltd,allopathy,bottle of 30 ml Oral Suspension,Ofloxacin (50mg) , Ornidazole (125mg),General Medicine / Not Classified
+203903,Sigdoth 75mg Tablet,79.8,False,Sigmund Promedica,allopathy,strip of 10 tablets,Dosulepin (75mg),,General Medicine / Not Classified
+107327,Hiodic Tablet SR,30.0,False,Keen Healthcare Pvt Ltd,allopathy,strip of 10 tablet sr,Aceclofenac (NA),,General Medicine / Not Classified
+138357,Methyl-Pred 1000mg Injection,1080.0,False,Shreshtha Formulations,allopathy,vial of 1 Injection,Methylprednisolone (1000mg),,General Medicine / Not Classified
+194184,Reenocef 500mg Injection,37.0,False,Micro Organics Pharmaceuticals India Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (500mg),,General Medicine / Not Classified
+99277,Gettimox Eye Drop,93.0,False,Gettin Lifesciences Pvt. Ltd.,allopathy,bottle of 5 ml Eye Drop,Moxifloxacin (0.5% w/v),,General Medicine / Not Classified
+161265,Nitocef 500mg Injection,55.45,False,Edymax Lifesciences Private Limited,allopathy,vial of 1 Injection,Ceftriaxone (500mg),,General Medicine / Not Classified
+207082,Stoflox MZS Syrup,64.0,False,Estocott Pharma,allopathy,bottle of 60 ml Syrup,Ofloxacin (50mg) , Metronidazole (120mg) ,General Medicine / Not Classified
+209531,Swimpan 40mg Tablet,60.0,False,Jabs Biotech Pvt Ltd,allopathy,strip of 10 tablets,Pantoprazole (40mg),,General Medicine / Not Classified
+190553,R PRIL 5 MG TABLET,28.75,True,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Ramipril (5mg),,General Medicine / Not Classified
+90164,Fern 50 mg/125 mg Capsule,41.34,False,Crest Pharma Pvt Ltd,allopathy,strip of 10 capsules,Ofloxacin (50mg) , Ornidazole (125mg),General Medicine / Not Classified
+140412,Muscoact 8mg Capsule,290.0,False,Solvate Laboratries Pvt Ltd,allopathy,strip of 10 capsules,Thiocolchicoside (8mg),,General Medicine / Not Classified
+4885,Ampoxin Plus 250 mg/250 mg Capsule,80.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg) , Dicloxacillin (250mg),Antibiotic - Treats bacterial infections
+240829,Vogisir M 500mg/0.3mg Tablet SR,85.45,False,Medcure Pharma,allopathy,strip of 10 tablet sr,Metformin (500mg) , Voglibose (0.3mg),General Medicine / Not Classified
+147796,Mepfor 2mg/500mg Tablet SR,58.0,False,Ansel Healthcare,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (500mg),General Medicine / Not Classified
+208275,Suproga DSR Capsule,99.97,False,Ealpharm Life Sciences Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg),General Medicine / Not Classified
+38879,Cyclobid Plus Tablet,54.5,False,Ikon Remedies Pvt Ltd,allopathy,strip of 10 tablets,Clidinium (2.5mg) , Chlordiazepoxide (5mg) ,General Medicine / Not Classified
+146858,Mycincure Injection,272.0,False,Medbionic Healthcare,allopathy,ampoule of 4 ml Injection,Clindamycin (600mg),,General Medicine / Not Classified
+118974,Ketalar 50mg/ml Injection,145.08,False,Parke Davis India Ltd,allopathy,vial of 10 ml Injection,Ketamine (50mg/ml),,General Medicine / Not Classified
+110742,Isx 40SR Tablet,59.0,False,H & Care Incorp,allopathy,strip of 10 tablet sr,Isoxsuprine (40mg),,General Medicine / Not Classified
+81138,Elmif 200mg Tablet,400.0,False,Elder Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Mifepristone (200mg),,General Medicine / Not Classified
+33828,Benimcold Tablet,34.0,False,Bayberry Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Caffeine (25mg) , Cetirizine (5mg) ,General Medicine / Not Classified
+23471,Ancip 500mg Tablet,61.5,False,Anrose Pharma Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),,General Medicine / Not Classified
+188294,Rutrin Tablet,169.0,False,Santis Pharmaceuticals Private Limited,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) ,General Medicine / Not Classified
+188442,Rutopax 90mg/48mg/100mg Tablet,165.0,False,Pax Healthcare,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) ,General Medicine / Not Classified
+47559,Corclin 300 Tablet,247.0,False,Ultimate Healthcare,allopathy,strip of 10 tablets,Clindamycin (300mg),,General Medicine / Not Classified
+163658,Omitec 20mg Capsule,45.0,False,Retec Formulations Pvt Ltd,allopathy,strip of 10 capsules,Omeprazole (20mg),,General Medicine / Not Classified
+184622,Ramcor 5 Capsule,91.92,False,Ipca Laboratories Ltd,allopathy,strip of 10 capsules,Ramipril (5mg),,General Medicine / Not Classified
+151865,Nifty-SR Tablet,125.9,False,Wanbury Ltd,allopathy,strip of 14 tablet sr,Nitrofurantoin (100mg),,General Medicine / Not Classified
+214925,Tenlimac M  500 Tablet SR,173.25,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablet sr,Metformin (500mg) , Teneligliptin (20mg),General Medicine / Not Classified
+12358,Artivil 120mg Injection,428.57,False,Viilbery Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Artesunate (120mg),,General Medicine / Not Classified
+230381,UDP 5 Tablet,24.9,False,Unison Pharmaceuticals Pvt Ltd,allopathy,strip of 30 tablets,Amlodipine (5mg),,General Medicine / Not Classified
+163896,Oxal 200mg Tablet,54.65,False,Anvik Biotech,allopathy,strip of 10 tablets,Ofloxacin (200mg),,General Medicine / Not Classified
+44130,Cartel H 40mg/12.5mg Tablet,150.0,False,Ikon Pharmachem Pvt Ltd,allopathy,strip of 15 tablets,Telmisartan (40mg) , Hydrochlorothiazide (12.5mg),General Medicine / Not Classified
+111797,Ithiofast Injection,54.17,False,6ipain Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Thiopental Sodium (1gm),,General Medicine / Not Classified
+208563,Salbrom GM Expectorant,33.0,False,Pramukh Swami Pharma Ltd,allopathy,bottle of 100 ml Expectorant,Bromhexine (2mg) , Guaifenesin (50mg) ,General Medicine / Not Classified
+113598,Ilatop 5mg Tablet,47.16,True,Ajanta Pharma Ltd,allopathy,strip of 10 tablets,Ilaprazole (5mg),,General Medicine / Not Classified
+90092,Finxime 200mg Tablet,128.0,False,Snu Biocare,allopathy,strip of 10 tablets,Cefixime (200mg),,General Medicine / Not Classified
+240323,Vorth 200mg Tablet SR,29.5,True,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Aceclofenac (200mg),,General Medicine / Not Classified
+40276,Cysmont LC Kid Syrup,75.0,False,Mars Therapeutics & Chemicals Ltd,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg/5ml) , Montelukast (4mg/5ml),General Medicine / Not Classified
+83587,Edvozin M Kid 2.5mg/4mg Tablet,62.0,False,Edmund Healthcare,allopathy,strip of 10 tablets,Levocetirizine (2.5mg) , Montelukast (4mg),General Medicine / Not Classified
+236689,Val-SP Tablet,100.0,False,Valtin Health Care Pvt. Ltd.,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+93612,Flobacin 400mg Tablet,46.25,False,Saga Laboratories,allopathy,strip of 5 tablets,Ofloxacin (400mg),,General Medicine / Not Classified
+4823,Apitase Syrup,72.0,False,Allentis Pharmaceuticals Pvt Ltd,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg) , Tricholine Citrate (275mg),General Medicine / Not Classified
+130501,Lecetz Tablet,30.0,False,Sehat Pharma Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),,General Medicine / Not Classified
+23219,Agicef S 1000mg/500mg Injection,150.0,False,Aegle Healthcare,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Sulbactam (500mg),General Medicine / Not Classified
+154342,Nthrosin CV 625 Tablet,140.06,False,Numed,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+108928,Itrafen 1% Cream,89.0,False,Medfence Labs,allopathy,tube of 20 gm Cream,Itraconazole (1% w/w),,General Medicine / Not Classified
+153952,Nericef 1.5gm Injection,244.0,False,Gerrysun Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Cefoperazone (1000mg) , Sulbactam (500mg),General Medicine / Not Classified
+220918,Tenifix 20 Tablet,125.0,False,Intra Life,allopathy,strip of 10 tablets,Teneligliptin (20mg),,General Medicine / Not Classified
+172695,Ontome 4mg Oral Suspension,35.5,False,Epitome Life Sciences,allopathy,bottle of 30 ml Oral Suspension,Ondansetron (4mg),,General Medicine / Not Classified
+123631,Lifobid OZ 200mg/500mg Tablet,78.0,False,Intra Life,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg),General Medicine / Not Classified
+206758,Serran Forte 10mg Tablet,54.9,False,Acto Pharma Pvt Ltd,allopathy,strip of 10 tablets,Serratiopeptidase (10mg),,General Medicine / Not Classified
+128949,Levospan 250mg Tablet,16.05,False,Punjab Formulations Ltd,allopathy,strip of 10 tablets,Levofloxacin (250mg),,General Medicine / Not Classified
+106376,Hemchek 125mg Injection,20.5,False,Fytokem Formulations,allopathy,vial of 2 ml Injection,Ethamsylate (125mg),,General Medicine / Not Classified
+51206,Caslot 6.25mg Tablet,17.93,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Carvedilol (6.25mg),,General Medicine / Not Classified
+134793,Moxiford D Eye Drop,18.75,False,Leeford Healthcare Ltd,allopathy,bottle of 5 ml Eye Drop,Moxifloxacin (0.5% w/v) , Dexamethasone (0.1% w/v),General Medicine / Not Classified
+248109,Zandril 2.5mg/500mg/5mg Syrup,52.8,False,Simpson Brawn Pharmaceuticals,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2.5mg) , Paracetamol (500mg) ,General Medicine / Not Classified
+178478,Povinovam Ointment,1.25,False,Themis Medicare Ltd,allopathy,tube of 15 gm Ointment,Povidone Iodine (NA),,General Medicine / Not Classified
+23065,Aarcim CV 200mg/125mg Tablet,270.0,False,Aarcin Pharmaceutical LLP,allopathy,strip of 10 tablets,Cefixime (200mg) , Clavulanic Acid (125mg),General Medicine / Not Classified
+249480,Ziletiz 5mg Tablet,39.0,False,Ziel Pharmaceuticals,allopathy,strip of 10 tablets,Levocetirizine (5mg),,General Medicine / Not Classified
+77824,Emprox CV 100mg/62.5mg Tablet,219.9,False,Emar HealthCare,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg) , Clavulanic Acid (62.5mg),General Medicine / Not Classified
+105671,Hisnic 16mg Tablet,83.65,False,Aeon Remedies,allopathy,strip of 10 tablets,Betahistine (16mg),,General Medicine / Not Classified
+251977,Zoflick 200 Tablet,57.33,False,Maverick Pharma Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),,General Medicine / Not Classified
+177065,Penseil 40 Tablet,75.0,False,Abseil Pharmaceticals Pvt Ltd,allopathy,strip of 10 tablets,Pantoprazole (40mg),,General Medicine / Not Classified
+121745,Luliford Cream,300.0,False,Leeford Healthcare Ltd,allopathy,tube of 30 gm Cream,Luliconazole (1% w/w),,General Medicine / Not Classified
+61885,Domcolic Suspension,35.28,False,Zydus Healthcare Limited,allopathy,bottle of 30 ml Suspension,Domperidone (1mg/ml),,General Medicine / Not Classified
+205417,Sulbact 1000 mg/500 mg Injection,66.3,False,Biochem Pharmaceutical Industries,allopathy,vial of 1 ml Injection,Ampicillin (1000mg) , Sulbactam (500mg),General Medicine / Not Classified
+61286,Drovib MF Tablet,90.0,False,Vibcare Pharma Pvt Ltd,allopathy,strip of 10 tablets,Drotaverine (80mg) , Mefenamic Acid (250mg),General Medicine / Not Classified
+81986,Esamlovin 1.25mg Tablet,16.2,False,East West Pharma,allopathy,strip of 10 tablets,S-Amlodipine (1.25mg),,General Medicine / Not Classified
+239661,Vildock 50mg Tablet,90.0,False,Albia Biocare,allopathy,strip of 15 tablets,Vildagliptin (50mg),,General Medicine / Not Classified
+124917,Livtor Syrup,110.0,False,Torainse Life Care Pvt Ltd,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg) , Tricholine Citrate (250mg),General Medicine / Not Classified
+59476,DOMPAN OD TABLET,107.0,True,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Domperidone (30mg) , Pantoprazole (40mg),General Medicine / Not Classified
+197087,Ramveda 5mg Tablet,49.5,False,Vidakem Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Ramipril (5mg),,General Medicine / Not Classified
+64283,Duluta 30mg Tablet,96.0,False,Bondane Pharma,allopathy,strip of 10 tablets,Duloxetine (30mg),,General Medicine / Not Classified
+247637,Zexto 20mg Tablet,40.2,False,Triko Pharmaceuticals,allopathy,strip of 10 tablets,Fluoxetine (20mg),,General Medicine / Not Classified
+11942,Ampurin Plus 250mg/250mg Capsule,87.0,False,Elder Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg) , Dicloxacillin (250mg),Antibiotic - Treats bacterial infections
+42054,Cednir 300mg Capsule,171.25,True,Abbott,allopathy,strip of 4 capsules,Cefdinir (300mg),,General Medicine / Not Classified
+88928,Fluchy 200mg Tablet,21.64,False,Helplab Healthcare Pvt Ltd,allopathy,strip of 1 Tablet,Fluconazole (200mg),,General Medicine / Not Classified
+151841,Nura DSR Capsule,69.0,False,Genesis Biotech Inc,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+91333,Fetnim P 100mg/325mg Tablet,30.0,False,Mosfet Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg),General Medicine / Not Classified
+36795,Clinred A Gel,213.0,False,Encore Pharmaceuticals Inc.,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w),General Medicine / Not Classified
+71208,Deflaquick 6mg Tablet,134.0,False,Cure Quick Pharmaceuticals,allopathy,strip of 10 tablets,Deflazacort (6mg),,General Medicine / Not Classified
+194898,Rabisoul-DSR Capsule,80.0,False,Dharam Lifesciences,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+44559,Cefree CV 200 mg/125 mg Tablet,280.67,False,Organic Laboratories,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg),General Medicine / Not Classified
+230327,Ulyses 450mg Tablet SR,417.8,False,Lupin Ltd,allopathy,strip of 10 tablet sr,Ursodeoxycholic Acid (450mg),,General Medicine / Not Classified
+12137,A-Max Fort 80mg/480mg Tablet,149.0,False,Tested & Trusted Pharma Pvt Ltd,allopathy,strip of 6 tablets,Artemether (80mg) , Lumefantrine (480mg),General Medicine / Not Classified
+23224,Amarglim Plus 1mg/500mg Tablet,36.5,False,ASV Laboratories India Pvt Ltd,allopathy,strip of 10 tablets,Glimepiride (1mg) , Metformin (500mg),General Medicine / Not Classified
+219282,Trimacort 40mg Injection,80.0,False,Edinburgh Pharmaceuticals,allopathy,vial of 1 ml Injection,Triamcinolone (40mg),,General Medicine / Not Classified
+136370,Manpil 100mg Tablet,100.0,False,Psychotropics India Ltd,allopathy,strip of 4 tablets,Sildenafil (100mg),,General Medicine / Not Classified
+124072,Limcor Chewable Tablet Orange,225.0,False,Rivan Pharma,allopathy,bottle of 30 Chewable Tablets,Vitamin C (1000mg),,General Medicine / Not Classified
+216425,Tusfin DX Syrup,88.0,False,Griffin Biogenesis Pvt Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (2mg/5ml) , Chlorpheniramine Maleate (5mg/5ml) ,General Medicine / Not Classified
+149490,Mecopid-G 300mg/500mcg Tablet,94.0,False,Pharma Drugs & Chemicals,allopathy,strip of 10 tablets,Gabapentin (300mg) , Methylcobalamin (500mcg),General Medicine / Not Classified
+20053,Arkpod CV Dry Syrup,98.0,False,Mediarka Lifesciences Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg) , Clavulanic Acid (31.25mg),General Medicine / Not Classified
+13067,Amiscape 10mg Tablet,24.0,False,Wings Biotech Ltd,allopathy,strip of 10 tablets,Amitriptyline (10mg),,General Medicine / Not Classified
+229629,Tario 100 Dry Syrup Pineapple,109.0,False,Penlon India Pharmaceuticals,allopathy,bottle of 30 ml Oral Suspension,Cefpodoxime Proxetil (100mg),,General Medicine / Not Classified
+210691,Synovace P 100 mg/500 mg Tablet,26.0,False,Cachet Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg),General Medicine / Not Classified
+19766,Astozin D 15mg/25mg Tablet,50.0,False,Astam Health Care Pvt Ltd,allopathy,strip of 10 tablets,Domperidone (15mg) , Cinnarizine (25mg),General Medicine / Not Classified
+217984,Topisone G Cream,58.0,False,Digmedi Pvt Ltd,allopathy,tube of 15 gm Cream,Clobetasone (0.05% w/w) , Gentamicin (0.1% w/w),General Medicine / Not Classified
+90189,Floricon 200 Capsule,275.0,False,Neuborn Life Science,allopathy,strip of 10 capsules,Itraconazole (200mg),,General Medicine / Not Classified
+244071,Xcure M 5mg/10mg Tablet,99.0,False,Aton Biotech,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg),General Medicine / Not Classified
+199115,Rabby D 30mg/20mg Capsule TR,53.0,False,Welbe Life Sciences,allopathy,strip of 10 capsule tr,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+80088,Elnac P Syrup,45.0,False,Elixir Pharmacon,allopathy,bottle of 60 ml Syrup,Aceclofenac (50mg) , Paracetamol (125mg),General Medicine / Not Classified
+113094,Iqdox 100mg Tablet DT,114.0,False,Oracle Health Park Pvt Ltd,allopathy,strip of 10 tablet dt,Cefpodoxime Proxetil (100mg),,General Medicine / Not Classified
+230883,Ugesic Gel,67.77,True,Meyer Organics Pvt Ltd,allopathy,tube of 15 gm Gel,Piroxicam (0.5% w/w),,General Medicine / Not Classified
+218671,Tencort 6 Tablet,86.0,False,Stenhill Labs,allopathy,strip of 10 tablets,Deflazacort (6mg),,General Medicine / Not Classified
+200487,Spas 20 mg/500 mg Tablet,29.7,False,Torque Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Dicyclomine (20mg) , Paracetamol (500mg),General Medicine / Not Classified
+200242,Slvrgen Cream,707.0,False,Bharat Biotech,allopathy,tube of 30 gm Cream,Recombinant Human Epidermal Growth Factor (10mcg) , Chlorhexidine Gluconate (0.2% w/w) ,General Medicine / Not Classified
+154761,Napain Tablet,25.0,False,Times Drugs & Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg),General Medicine / Not Classified
+194659,Rifamus 200mg Tablet,80.0,False,Optimus Pharma Pvt Ltd,allopathy,strip of 10 tablets,Rifaximin (200mg),,General Medicine / Not Classified
+120262,Kapdox 50mg Tablet DT,68.0,False,Novagen Pharmaceuticals,allopathy,strip of 10 tablet dt,Cefpodoxime Proxetil (50mg),,General Medicine / Not Classified
+226195,Tydem 4mg Tablet,39.9,False,Tested & Trusted Pharma Pvt Ltd,allopathy,strip of 10 tablets,Ondansetron (4mg),,General Medicine / Not Classified
+162073,Omez 10 Capsule,39.02,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 15 capsules,Omeprazole (10mg),,General Medicine / Not Classified
+207804,Seradol 5mg Injection,10.5,False,Maneesh Pharmaceuticals Ltd,allopathy,vial of 1 ml Injection,Haloperidol Decanoate (5mg),,General Medicine / Not Classified
+47279,Ceepro TZ 500mg/600mg Tablet,68.6,False,Lincoln Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg) , Tinidazole (600mg),General Medicine / Not Classified
+97041,Glive M 80mg/500mg Tablet,58.0,False,Live Pharma,allopathy,strip of 10 tablets,Gliclazide (80mg) , Metformin (500mg),General Medicine / Not Classified
+240865,Vofni 200mg Tablet,44.0,False,Aviotic Healthcare Pvt. Ltd.,allopathy,strip of 10 tablets,Ofloxacin (200mg),,General Medicine / Not Classified
+107904,Itra 200mg Capsule,120.0,False,Solutia Pharma LLP,allopathy,strip of 4 capsules,Itraconazole (200mg),,General Medicine / Not Classified
+96044,GB Mox LP Eye Drop,139.0,False,Greenco Biologicals Pvt Ltd,allopathy,bottle of 5 ml Eye Drop,Loteprednol etabonate (0.5% w/v) , Moxifloxacin (0.5% w/v),General Medicine / Not Classified
+180938,Pantozee 40mg Injection,49.0,False,Zee Laboratories,allopathy,vial of 1 Injection,Pantoprazole (40mg),,General Medicine / Not Classified
+81159,Escidant plus Tablet,75.0,False,Adamant Pharma,allopathy,strip of 10 tablets,Clonazepam (0.5mg) , Escitalopram Oxalate (10mg),General Medicine / Not Classified
+208782,Saphrine 1%/0.2% Cream,227.51,False,Group Pharmaceuticals Ltd,allopathy,tube of 250 gm Cream,Sulfadiazine (1%) , Chlorhexidine Gluconate (0.2%),General Medicine / Not Classified
+173376,Offer OZ Oral Suspension,35.0,False,Reantis Pharmaceuticals Pvt. Ltd.,allopathy,bottle of 30 ml Oral Suspension,Ofloxacin (50mg) , Ornidazole (125mg),General Medicine / Not Classified
+199933,Swich CV 50 Dry Syrup,120.0,False,Alkem Laboratories Ltd,allopathy,bottle of 30 ml Powder for Oral Suspension,Cefpodoxime Proxetil (50mg) , Clavulanic Acid (31.25mg),General Medicine / Not Classified
+46529,Cobison PNT 75mg/10mg/1500mg Tablet,184.0,False,Eveson Pharma,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg) ,General Medicine / Not Classified
+252697,Zofdan MD Tablet,52.5,False,Carenix Bio Pharma Pvt. Ltd.,allopathy,strip of 10 tablet md,Ondansetron (4mg),,General Medicine / Not Classified
+209469,Stable 0.25mg/20mg Tablet,35.0,False,Integral Lifesciences,allopathy,strip of 10 tablets,Alprazolam (0.25mg) , Propranolol (20mg),General Medicine / Not Classified
+86513,Furex 500mg Tablet,280.0,False,Amista Labs Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),,General Medicine / Not Classified
+175595,Paa Plus Tablet,70.0,False,Medoz Pharmaceutical Pvt. Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) ,General Medicine / Not Classified
+116431,Kivipride 50mg Tablet,64.0,False,Kivi Labs Ltd,allopathy,strip of 10 tablets,Amisulpride (50mg),,General Medicine / Not Classified
+15257,Alcer RD 30mg/20mg Capsule,59.0,False,Allpa India Medicines Pvt Ltd,allopathy,strip of 10 capsules,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+193087,Rabomac 20mg Tablet,35.0,False,MDC Pharmaceuticals  Pvt Ltd,allopathy,strip of 10 tablets,Rabeprazole (20mg),,General Medicine / Not Classified
+225351,Tocef 250mg Capsule,69.0,False,Blubell Pharma,allopathy,strip of 10 capsules,Cefalexin (250mg),,General Medicine / Not Classified
+19488,Alicamox-CV 625 Tablet,200.0,False,Alicanto Drugs Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+39922,Cilapam LS 0.25mg/10mg Tablet,185.0,False,Alteus Biogenics Pvt Ltd,allopathy,strip of 15 tablets,Clonazepam (0.25mg) , Escitalopram Oxalate (10mg),General Medicine / Not Classified
+157453,Nutrikof Syrup,65.0,False,Nutratec Pharmaceuticals,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) ,Expectorant - Helps clear mucus from airways
+61683,Derinide 100 Inhaler CFC Free,277.76,False,Zydus Cadila,allopathy,packet of 200 MDI Inhaler,Budesonide (100mcg),,General Medicine / Not Classified
+154087,Nipocet 5mg Tablet,36.5,False,Dhamus Pharma,allopathy,strip of 10 tablets,Levocetirizine (5mg),,General Medicine / Not Classified
+60479,Desonate 0.05% Lotion,180.0,False,Caryota Life Sciences India Pvt. Ltd.,allopathy,bottle of 30 ml Lotion,Desonide (0.05% w/v),,General Medicine / Not Classified
+64878,Dentop-K Dental Gel,50.0,False,Will Impex,allopathy,tube of 50 gm Dental Gel,Potassium Nitrate (5% w/w),,General Medicine / Not Classified
+102831,Glimven M Plus Tablet SR,137.0,False,Anvicure Drugs,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (1000mg),General Medicine / Not Classified
+114656,Jemcet-M Kid Syrup Delicious Mixed Fruit,78.0,False,Jemster Healthcare Private Limited,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg/5ml) , Montelukast (4mg/5ml),General Medicine / Not Classified
+216006,Thiowell 4mg/100mg/325mg Tablet,199.0,False,Qurewell Health Science Pvt Ltd,allopathy,strip of 10 tablets,Thiocolchicoside (4mg) , Aceclofenac (100mg) ,General Medicine / Not Classified
+174025,Paracip Suspension,44.35,False,Cipla Ltd,allopathy,bottle of 60 ml Oral Suspension,Paracetamol (250mg/5ml),,General Medicine / Not Classified
+68636,D Met 500mg Tablet SR,19.0,False,Strides shasun Ltd,allopathy,strip of 10 tablet sr,Metformin (500mg),,General Medicine / Not Classified
+185544,Robin 20mg Tablet,55.0,False,Mini Pharmaceuticals,allopathy,strip of 10 tablets,Rabeprazole (20mg),,General Medicine / Not Classified
+37327,Cefokem XP 500 mg/500 mg Injection,179.0,False,Alkem Laboratories Ltd,allopathy,vial of 1 Injection,Cefoperazone (500mg) , Sulbactam (500mg),General Medicine / Not Classified
+103783,HUCOG 10000 HP Injection,1418.0,False,Bharat Serums & Vaccines Ltd,allopathy,vial of 1 Injection,Human chorionic gonadotropin (hCG) (10000IU),,General Medicine / Not Classified
+183393,Qutrox-XL Syrup,68.0,False,Eco Med Remedies Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) ,Expectorant - Helps clear mucus from airways
+171462,Oceclo SP 100mg/325mg/15mg Tablet,76.0,False,Otik Biotec,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+234082,Vertisis 16mg Tablet,65.0,False,Shilar Pharmaceuticals,allopathy,strip of 10 tablets,Betahistine (16mg),,General Medicine / Not Classified
+180570,Preglon 200mg Tablet,180.0,False,Novaduo Pharma,allopathy,strip of 10 tablets,Progesterone (200mg),,General Medicine / Not Classified
+11896,Alarpod 50mg Dry Syrup,75.0,False,Alarius Healthcare,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg),,General Medicine / Not Classified
+17243,Actomox 250mg Tablet,41.8,False,Fitwel Pharmaceuticals Private Limited,allopathy,strip of 10 tablets,Amoxycillin (250mg),,Antibiotic - Treats bacterial infections
+157572,Numin Trio 2mg/500mg/0.2mg Tablet,141.0,False,Laxian Healthcare,allopathy,strip of 10 tablets,Glimepiride (2mg) , Metformin (500mg) ,General Medicine / Not Classified
+62484,Dolwin 50mg/500mg Tablet,29.1,False,Nortech Remedies,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (500mg),General Medicine / Not Classified
+31152,Brin 150mg Tablet,16.0,False,Brawn Laboratories Ltd,allopathy,strip of 10 tablets,Aspirin (150mg),,General Medicine / Not Classified
+198626,Rofcom 12.5mg Tablet,10.42,False,Comed Chemicals Ltd,allopathy,strip of 10 tablets,Rofecoxib (12.5mg),,General Medicine / Not Classified
+67218,D Cef 250mg Injection,29.06,False,DWD Pharmaceuticals Ltd,allopathy,vial of 1 Injection,Ceftriaxone (250mg),,General Medicine / Not Classified
+123074,Luliza 1% Lotion,160.0,False,Anhox Healthcare Pvt Ltd,allopathy,bottle of 20 ml Lotion,Luliconazole (1% w/v),,General Medicine / Not Classified
+81344,Espinha-GA Capsule,124.0,False,Veasley Pharmaceuticals Private Limited,allopathy,strip of 10 capsules,Gabapentin (300mg) , Methylcobalamin (500mcg),General Medicine / Not Classified
+246655,Zix-R OD Capsule SR,143.5,False,Jenburkt Pharmaceuticals Ltd,allopathy,strip of 10 capsule sr,Aceclofenac (200mg) , Rabeprazole (20mg),General Medicine / Not Classified
+184740,RabiPlus-D Capsule PR,272.75,False,Wanbury Ltd,allopathy,strip of 15 capsule pr,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+7144,Altamet 500mg Tablet,108.0,True,Alembic Pharmaceuticals Ltd,allopathy,strip of 4 tablets,Cefetamet (500mg),,General Medicine / Not Classified
+166487,Otomate Eye Drop,63.0,False,Matins Pharma,allopathy,bottle of 5 ml Eye Drop,Gentamicin (0.3% w/v) , Clotrimazole (1% w/v) ,General Medicine / Not Classified
+200834,Statpure 5mg Tablet,79.0,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Rosuvastatin (5mg),,General Medicine / Not Classified
+232544,Udiford 150mg Tablet,185.0,False,Bioris Pharmaceuticals,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (150mg),,General Medicine / Not Classified
+223933,Termox CV 500mg/125mg Tablet,220.0,False,Axter Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+237420,Velpant D 10mg/40mg Tablet,78.0,False,Flanca Life Sciences,allopathy,strip of 10 tablets,Domperidone (10mg) , Pantoprazole (40mg),General Medicine / Not Classified
+187075,Roxid S 150 mg/10 mg Tablet,125.13,True,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Roxithromycin (150mg) , Serratiopeptidase (10mg),General Medicine / Not Classified
+21906,Aecef S 250mg/125mg Injection,60.0,False,Aadi Health Care,allopathy,vial of 1 Injection,Ceftriaxone (250mg) , Sulbactam (125mg),General Medicine / Not Classified
+54557,Cefzoc 200 Tablet,100.9,False,Biozoc INC,allopathy,strip of 10 tablets,Cefixime (200mg),,General Medicine / Not Classified
+134821,Mynosit Tablet,240.0,False,Zealina Life Sciences,allopathy,strip of 10 tablets,Myo-Inositol (1gm) , L-Methyl Folate Calcium (500mcg) ,General Medicine / Not Classified
+46277,Cyproden 2mg Syrup,65.0,False,BMW Pharmaco India Pvt. Ltd.,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg),,General Medicine / Not Classified
+250436,Zirlon L 5mg Tablet,33.05,False,Waves Bio-Tech Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),,General Medicine / Not Classified
+85598,Filocar 100 Tablet,6.0,False,Zeelab Pharmacy Pvt Ltd,allopathy,strip of 10 tablets,Diethylcarbamazine (100mg),,General Medicine / Not Classified
+181708,P2Gas 40 Tablet,38.3,False,Guillain Pharma Private Limited,allopathy,strip of 10 tablets,Pantoprazole (40mg),,General Medicine / Not Classified
+170075,Omisafe Plus 1000 mg/500 mg Injection,128.1,False,Innovative Pharmaceuticals,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Sulbactam (500mg),General Medicine / Not Classified
+103360,Geecef 50mg Syrup,58.0,False,Brook Parker,allopathy,bottle of 30 ml Syrup,Cefpodoxime Proxetil (50mg),,General Medicine / Not Classified
+189278,Riax-M XR 5mg/500mg Tablet,329.0,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 7 tablet er,Saxagliptin (5mg) , Metformin (500mg),General Medicine / Not Classified
+56531,Cyzosule S 1000mg/500mg Injection,284.0,False,Torres Lifesciences,allopathy,vial of 1 Injection,Cefoperazone (1000mg) , Sulbactam (500mg),General Medicine / Not Classified
+199765,Sufrate LA Cream,135.0,False,Eskag Pharma Pvt Ltd,allopathy,tube of 30 gm Rectal Cream,Lidocaine (4% w/w) , Metronidazole (1% w/w) ,General Medicine / Not Classified
+111887,Insetron-OS Oral Solution,33.0,False,Integrated Laboratories Pvt Ltd,allopathy,bottle of 30 ml Oral Solution,Ondansetron (2mg),,General Medicine / Not Classified
+245074,Xepar 30 Tablet,205.0,False,Consern Pharma Limited,allopathy,strip of 10 tablets,Paroxetine (30mg),,General Medicine / Not Classified
+199466,Rabecube D 30mg/20mg Capsule SR,125.0,False,Biocube Pharma,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+184178,R-Cinex 600 Tablet,40.0,False,Lupin Ltd,allopathy,strip of 3 tablets,Rifampicin (600mg) , Isoniazid (300mg),General Medicine / Not Classified
+208258,Silentol 500mg Syrup,99.53,False,Simcare Pharma,allopathy,bottle of 30 ml Syrup,Triclofos (500mg/5ml),,General Medicine / Not Classified
+218561,Triline Plus H 12.5 mg/5 mg Tablet,27.0,False,Tripada Biotec Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (12.5mg) , Chlordiazepoxide (5mg),General Medicine / Not Classified
+230957,Unifix 200mg Tablet,125.0,False,Unisharp Pharmaceuticals,allopathy,strip of 10 tablets,Cefixime (200mg),,General Medicine / Not Classified
+111079,Intravir 200mg Tablet,62.0,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 tablets,Acyclovir (200mg),,General Medicine / Not Classified
+43603,Cartel 80 H Tablet,139.0,False,Gms Biomax Medicare Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (80mg) , Hydrochlorothiazide (12.5mg),General Medicine / Not Classified
+99475,Glimecaid MV 1 Tablet SR,129.0,False,Medicaid Labs LLP,allopathy,strip of 15 tablet sr,Glimepiride (1mg) , Metformin (500mg) ,General Medicine / Not Classified
+155738,Nostipan Oral Solution,124.5,True,Micro Labs Ltd,allopathy,bottle of 100 ml Oral Solution,Lactulose (3.35gm/5ml),,General Medicine / Not Classified
+221682,Tolzyp P 150mg/325mg Tablet,115.0,False,Apa Pharmaceuticals,allopathy,strip of 10 tablets,Tolperisone (150mg) , Paracetamol (325mg),General Medicine / Not Classified
+136830,Metfil 500mg Tablet,67.71,True,Fourrts India Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Metformin (500mg),,General Medicine / Not Classified
+176760,Phaster 100mg/325mg Tablet,40.0,False,Manith Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),General Medicine / Not Classified
+79825,ES Pitant 150mg Injection,2777.0,False,Esperer Bioresearch Pvt Ltd,allopathy,vial of 1 Injection,Fosaprepitant (150mg),,General Medicine / Not Classified
+81772,Easyclav 500mg/125mg Tablet,187.0,False,Matrix Healthcare,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+78952,Ethics Ozole 20 Capsule,44.5,False,Ethics Health Care Pvt Ltd,allopathy,strip of 15 capsules,Omeprazole (20mg),,General Medicine / Not Classified
+129292,L Tam 1000mg Tablet,205.0,False,Carise Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Levetiracetam (1000mg),,General Medicine / Not Classified
+132205,Lorwave TH 8mg/4mg Tablet,169.0,False,Nusmith Pharma Pvt. Ltd,allopathy,strip of 10 tablets,Lornoxicam (8mg) , Thiocolchicoside (4mg),General Medicine / Not Classified
+174580,Pansalve 40mg Tablet,9.25,False,Emcure Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Pantoprazole (40mg),,General Medicine / Not Classified
+34781,Cheston Cold Tablet,62.5,False,Cipla Ltd,allopathy,strip of 20 tablets,Cetirizine (5mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+81056,Etorizan 90mg Tablet,70.0,False,Ambience Pharma,allopathy,strip of 10 tablets,Etoricoxib (90mg),,General Medicine / Not Classified
+31621,Bioprim 400mg/80mg Tablet,8.0,False,BIO Ethicals Pharma Limited,allopathy,strip of 10 tablets,Sulfamethoxazole (400mg) , Trimethoprim (80mg),General Medicine / Not Classified
+253233,Zorok 1000 mg/1000 mg Injection,138.1,False,Astrum Healthcare Pvt  Ltd,allopathy,vial of 1 Injection,Cefoperazone (1000mg) , Sulbactam (1000mg),General Medicine / Not Classified
+208526,Sefdin 125mg Tablet DT,120.9,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablet dt,Cefdinir (125mg),,General Medicine / Not Classified
+206278,Senduo-P Tablet,27.0,False,Senen Biotech,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg),General Medicine / Not Classified
+126769,Locozole Cream,290.0,False,Cimera Skin Care,allopathy,tube of 20 gm Cream,Luliconazole (1% w/w),,General Medicine / Not Classified
+208898,Sft D Syrup,93.61,False,Caplet India Pvt Ltd,allopathy,bottle of 100 ml Syrup,Domperidone (7.5mg) , Sucralfate (1000mg),General Medicine / Not Classified
+35661,Cita S Plus 0.25mg/5mg Tablet,72.75,False,Crescent Therapeutics Ltd,allopathy,strip of 10 tablets,Clonazepam (0.25mg) , Escitalopram Oxalate (5mg),General Medicine / Not Classified
+158110,Nixheal O Syrup,130.0,False,Carenix Bio Pharma Pvt. Ltd.,allopathy,bottle of 100 ml Syrup,Sucralfate (1000mg) , Oxetacaine (20mg),General Medicine / Not Classified
+13859,Azicyn 500mg Tablet,56.29,False,Supracyn Pharma,allopathy,strip of 3 tablets,Azithromycin (500mg),,Antibiotic - Treats respiratory and skin infections
+96841,Glimser Forte 2 Tablet PR,207.3,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (2mg) , Metformin (1000mg),General Medicine / Not Classified
+64236,Dfs 6mg Tablet,70.0,False,Lemford Biotech Pvt Ltd,allopathy,strip of 10 tablets,Deflazacort (6mg),,General Medicine / Not Classified
+225639,Telmend 40 Tablet,60.0,False,Mendcure Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg),,General Medicine / Not Classified
+100505,Gracof BR Syrup,27.42,False,GRAF Laboratories Pvt Ltd,allopathy,bottle of 60 ml Syrup,Guaifenesin (NA) , Terbutaline (NA) ,General Medicine / Not Classified
+236716,Vipglip M 500mg/50mg Tablet,187.5,False,Tycoon Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Metformin  (500mg) ,  Vildagliptin (50mg),General Medicine / Not Classified
+128544,LT Zine D 5mg/10mg Tablet,32.0,False,Health Care Formulations Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Phenylephrine (10mg),General Medicine / Not Classified
+56383,Cenocef 100 DT Tablet,87.5,False,Dawson Healthcare Pvt Ltd,allopathy,strip of 10 tablet dt,Cefixime (100mg),,General Medicine / Not Classified
+113812,Infeczon 500mg Injection,45.0,False,Arkle Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (500mg),,General Medicine / Not Classified
+36141,Clarimac 500mg Tablet,275.0,False,Zydus Cadila,allopathy,strip of 4 tablets,Clarithromycin (500mg),,General Medicine / Not Classified
+230495,U Bet Injection,2125.0,False,Abbott,allopathy,vial of 5 ml Injection,Ulinastatin (100000IU),,General Medicine / Not Classified
+89602,Fludoxin 50mg Injection,140.0,False,Intra Life,allopathy,vial of 2.5 ml Injection,Iron Sucrose (50mg),,General Medicine / Not Classified
+182557,Pregabus Capsule,300.0,False,Globus Remedies Ltd,allopathy,strip of 10 soft gelatin capsules,Progesterone (Natural Micronized) (200mg),,General Medicine / Not Classified
+63560,Dapaone-M 10mg/1000mg Tablet,135.0,False,MSN Laboratories,allopathy,strip of 10 tablets,Dapagliflozin (10mg) , Metformin (1000mg),General Medicine / Not Classified
+143273,Megcetam 100mg Injection,119.0,False,Ridhima Biocare,allopathy,vial of 5 ml Injection,Levetiracetam (100mg),,General Medicine / Not Classified
+105600,Hilmox 500mg Capsule,67.7,False,Hiral Labs Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),,Antibiotic - Treats bacterial infections
+120617,Kavspas-P Oral Suspension,33.5,False,Kav Laboratories,allopathy,bottle of 60 ml Oral Suspension,Mefenamic Acid (50mg) , Paracetamol (125mg),General Medicine / Not Classified
+188023,Rosagon-Gold 20 Capsule,199.0,False,Gonan Pharma,allopathy,strip of 10 capsules,Aspirin (75mg) , Rosuvastatin (20mg) ,General Medicine / Not Classified
+57642,Cefuromed 1500mg Injection,250.0,False,MHS Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Cefuroxime (1500mg),,General Medicine / Not Classified
+171080,Oclazid M 80mg/500mg Tablet,39.0,False,Oyster Labs Ltd,allopathy,strip of 10 tablets,Gliclazide (80mg) , Metformin (500mg),General Medicine / Not Classified
+179472,Pantaq 40mg Tablet,44.0,False,Aquila Labs,allopathy,strip of 10 tablets,Pantoprazole (40mg),,General Medicine / Not Classified
+52129,Cyfaxil 20mg/50mg Injection,17.0,False,Renova Pharmaceuticals,allopathy,vial of 2 ml Injection,Dicyclomine (20mg) , Diclofenac (50mg),General Medicine / Not Classified
+177456,Pilcare Cream,29.0,False,Laborate Pharmaceuticals India Ltd,allopathy,tube of 20 gm Cream,Phenylephrine (NA) , Beclometasone (NA) ,General Medicine / Not Classified
+244158,X-pecia 10% Gel,775.0,False,Amwill Healthcare,allopathy,tube of 60 gm Gel,Minoxidil (10% w/w) , Finasteride (0.1% w/w),General Medicine / Not Classified
+107041,Hycolit M Syrup,65.0,False,Alentra Healthcare,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg) , Montelukast (4mg),General Medicine / Not Classified
+99889,G-Pra 10 Tablet,100.0,False,Gamete Pharma Pvt Ltd,allopathy,strip of 10 tablets,Aripiprazole (10mg),,General Medicine / Not Classified
+13084,Azikyor 250mg Tablet,56.0,False,Lifekyor Pharmaceuticals,allopathy,strip of 6 tablets,Azithromycin (250mg),,Antibiotic - Treats respiratory and skin infections
+194155,Rabiup-LS 75mg/20mg Capsule,275.0,False,Jenfer Biosciences Pvt Ltd,allopathy,strip of 10 capsules,Levosulpiride (75mg) , Rabeprazole (20mg),General Medicine / Not Classified
+219789,Taxone XP 500 mg/62.5 mg Injection,90.36,False,Mapra Laboratories Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (500mg) , Tazobactum (62.5mg),General Medicine / Not Classified
+11120,Acmerose 5mg Tablet,22.0,False,Citric Labs,allopathy,strip of 10 tablets,Rosuvastatin (5mg),,General Medicine / Not Classified
+153944,ND Cort 6mg Tablet,86.0,False,NDMA Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Deflazacort (6mg),,General Medicine / Not Classified
+180084,PL 05 Mpred 04mg Tablet,54.0,False,Pranshul Lifescience Pvt Ltd,allopathy,strip of 10 tablets,Methylprednisolone (4mg),,General Medicine / Not Classified
+75347,Ezopan D 30mg/40mg Capsule SR,77.0,False,Elinor Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg),General Medicine / Not Classified
+121334,Lasma 4 Tablet,77.3,False,Apex Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Montelukast (4mg),,General Medicine / Not Classified
+158754,Nims SP 100mg/500mg/10mg Tablet,68.0,False,Man Serve Pharma,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg) ,General Medicine / Not Classified
+242177,Wonflam BR 90mg/48mg/100mg Tablet,185.0,False,Wonder Theraputics Pvt Ltd,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) ,General Medicine / Not Classified
+215967,Ticocin 200mg Injection,967.5,False,Cipla Ltd,allopathy,vial of 10 ml Injection,Teicoplanin (200mg),,General Medicine / Not Classified
+214453,Sofoxin CV Dry Syrup,82.0,False,Eveson Pharma,allopathy,bottle of 30 ml Dry Syrup,Cefixime (50mg) , Clavulanic Acid (31.25mg),General Medicine / Not Classified
+211307,Safodex Forte 100mg/5ml Suspension,93.35,False,Kaptab Pharmaceuticals,allopathy,bottle of 30 ml Suspension,Cefpodoxime Proxetil (100mg/5ml),,General Medicine / Not Classified
+30606,Bambudil 20mg Tablet,68.8,False,Cipla Ltd,allopathy,strip of 10 tablets,Bambuterol (20mg),,General Medicine / Not Classified
+84824,FluQuadri NH 2020-2021 Vaccine,1374.0,True,Sanofi India  Ltd,allopathy,prefilled syringe of 0.25 ml Injection,Inactivated influenza vaccine (NA),,General Medicine / Not Classified
+969,Acenac-SR Tablet,82.0,False,Medley Pharmaceuticals,allopathy,strip of 10 tablet sr,Aceclofenac (200mg),,General Medicine / Not Classified
+85955,Folivern-F 10 Spray/Solution,946.0,True,Malvern Pharma,allopathy,pump bottle of 60 ml Solution,Minoxidil (10% w/v) , Finasteride (0.1% w/v),General Medicine / Not Classified
+221178,Tigus 20mg Tablet,99.0,False,Divine Savior Pvt Ltd,allopathy,strip of 10 tablets,Teneligliptin (20mg),,General Medicine / Not Classified
+154056,Neorenal 500mg/150mg Tablet,127.0,False,Lunas Remedies,allopathy,strip of 10 tablets,Taurine (500mg) , Acetylcysteine (150mg),General Medicine / Not Classified
+118591,Kex O 200mg/200mg Tablet,65.0,False,Cureways Remedies,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg),General Medicine / Not Classified
+716,Albutamol Syrup,65.4,False,Centaur Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Salbutamol (NA) , Etofylline (NA) ,General Medicine / Not Classified
+94208,Gluconorm-G 1 Tablet PR,186.25,False,Lupin Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (1mg) , Metformin (500mg),General Medicine / Not Classified
+92063,Feritouch 100mg Injection,248.0,False,Zenotis Healthcare,allopathy,vial of 5 ml Injection,Iron Sucrose (100mg),,General Medicine / Not Classified
+162186,Od LM 5mg/10mg Tablet,102.0,False,Themis Medicare Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg),General Medicine / Not Classified
+199533,Spasmo-Proxyvon Plus Capsule,46.0,False,Wockhardt Ltd,allopathy,strip of 8 capsules,Dicyclomine (10mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+184932,Respidex Syrup,29.0,False,Auroma Lifescience Pvt Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) ,General Medicine / Not Classified
+162325,Olmetor AM Tablet,139.9,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (20mg) , Amlodipine (5mg),General Medicine / Not Classified
+230606,Ultraniche Tablet,55.0,False,Alniche Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Paracetamol/Acetaminophen  (325mg) ,  Tramadol (37.5mg),General Medicine / Not Classified
+151525,Nevis-CR Tablet,192.5,False,Zenska Life Sciences Pvt Ltd,allopathy,strip of 10 tablet cr,Norethisterone (10mg),,General Medicine / Not Classified
+71807,Dicloapt P Tablet,55.0,False,APT Cure Laboratories,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+219910,Telozit H 40mg/12.5mg Tablet,78.0,False,Ambit Health Care Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Hydrochlorothiazide (12.5mg),General Medicine / Not Classified
+65314,Domtop 10mg Tablet,5.0,False,Ind Swift Laboratories Ltd,allopathy,strip of 10 tablets,Domperidone (10mg),,General Medicine / Not Classified
+166758,Omezolet-D Capsule,51.0,False,Avyukt Pharmaceuticals,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg),General Medicine / Not Classified
+148671,Moxgreat CV 500mg/125mg Tablet,196.0,False,NYG Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+48154,Cepod N 100mg Tablet,135.0,False,Nemi Pharmaceuticles,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg),,General Medicine / Not Classified
+246765,Zathrin-XL 200 Readymix,106.0,False,FDC Ltd,allopathy,bottle of 30 ml Oral Suspension,Azithromycin (200mg/5ml),,Antibiotic - Treats respiratory and skin infections
+222706,Tobron-F Eye Drop,105.0,False,Candor Medicare Pharmaceuticals,allopathy,bottle of 5 ml Opthalmic Suspension,Tobramycin (0.3% w/v) , Fluorometholone (0.1% w/v),General Medicine / Not Classified
+246049,Yanicold 5mg/325mg/10mg Tablet,60.0,False,Smayan Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Cetirizine (5mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+235936,Vhestanil 5mg Tablet,39.9,False,Tested & Trusted Pharma Pvt Ltd,allopathy,strip of 10 tablets,Prochlorperazine (5mg),,General Medicine / Not Classified
+22985,Atofast-EZ Tablet,92.56,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Ezetimibe (10mg),General Medicine / Not Classified
+161719,Odimont-FX Tablet,235.55,False,Zydus Cadila,allopathy,strip of 15 tablets,Montelukast (10mg) , Fexofenadine (120mg),General Medicine / Not Classified
+142394,Mapime 1gm Injection,151.38,False,Mapra Laboratories Pvt Ltd,allopathy,vial of 1 Injection,Cefepime (1gm),,General Medicine / Not Classified
+94812,Gabagesic M 300mg/500mcg Tablet,170.5,False,Linux Laboratories,allopathy,strip of 10 tablets,Gabapentin (300mg) , Methylcobalamin (500mcg),General Medicine / Not Classified
+85751,Fura 100mg Tablet MR,89.0,False,Cure Kelvin,allopathy,strip of 10 tablet mr,Nitrofurantoin (100mg),,General Medicine / Not Classified
+180466,Polo H 50mg/12.5mg Tablet,64.6,False,Pride Healthcare,allopathy,strip of 10 tablets,Losartan (50mg) , Hydrochlorothiazide (12.5mg),General Medicine / Not Classified
+109625,Iocef-CS 1.5gm Injection,230.0,False,Incus Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Cefoperazone (1gm) , Sulbactam (0.5gm),General Medicine / Not Classified
+181785,Piclonac Forte Tablet,70.0,False,Focus Healthcare,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) ,General Medicine / Not Classified
+49222,Caditone 3.125mg Tablet,7.17,False,Kopran Ltd,allopathy,strip of 10 tablets,Carvedilol (3.125mg),,General Medicine / Not Classified
+162388,Oro-CV 625 Tablet,194.97,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+233746,Vdep 10mg Tablet,139.0,False,Cyrus Remedies,allopathy,strip of 10 tablets,Vortioxetine (10mg),,General Medicine / Not Classified
+796,Angistat 2.5 Capsule TR,169.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 25 capsule tr,Nitroglycerin (2.5mg),,General Medicine / Not Classified
+179566,Pantoch-DSR Capsule,96.0,False,Mitoch Pharma Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg),General Medicine / Not Classified
+247441,Zenegra Lido Spray,170.0,False,Alkem Laboratories Ltd,allopathy,packet of 15 ml Spray,Lidocaine (9.5% w/w),,General Medicine / Not Classified
+233889,Valz 20 Tablet,202.75,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Vilazodone (20mg),,General Medicine / Not Classified
+95820,Gracof Plus Syrup,68.5,False,GRAF Laboratories Pvt Ltd,allopathy,bottle of 100 ml Syrup,Salbutamol (2mg/5ml),,General Medicine / Not Classified
+32535,Britvog M 500mg/0.2mg Tablet,125.0,False,Elbrit Life Sciences,allopathy,strip of 15 tablets,Metformin (500mg) , Voglibose (0.2mg),General Medicine / Not Classified
+226506,Tramoget P 325mg/37.5mg Tablet,55.0,False,Biofield Pharma,allopathy,strip of 10 tablets,Paracetamol/Acetaminophen  (325mg) ,  Tramadol (37.5mg),General Medicine / Not Classified
+58290,Duzela 20 Capsule DR,115.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 Capsule DR,Duloxetine (20mg),,General Medicine / Not Classified
+55646,Closarten H 50mg/12.5mg Tablet,60.0,False,Clover Health Care Pharma,allopathy,strip of 10 tablets,Losartan (50mg) , Hydrochlorothiazide (12.5mg),General Medicine / Not Classified
+4453,Acestine AB Tablet,243.0,False,Johnlee Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg),General Medicine / Not Classified
+144153,Maxitam 800mg Tablet,84.62,False,Invision Medi Sciences Pvt Ltd,allopathy,strip of 10 tablets,Piracetam (800mg),,General Medicine / Not Classified
+36270,Cognivin Syrup,600.0,False,Regenix Drugs Ltd,allopathy,bottle of 60 ml Syrup,Citicoline (500mg) , Piracetam (400mg),General Medicine / Not Classified
+64323,Dazflam-SP Tablet,85.0,False,Dazzle Healthcare,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+47318,Clovumin 50mg Tablet,52.76,False,East West Pharma,allopathy,strip of 10 tablets,Clomiphene (50mg),,General Medicine / Not Classified
+83476,Ezymox 250mg Tablet DT,52.9,False,SAC Pharmaceuticals,allopathy,strip of 10 tablet dt,Amoxycillin (250mg),,Antibiotic - Treats bacterial infections
+157431,Nimu Plus Suspension,14.81,False,Alchemist Life Science Ltd,allopathy,bottle of 60 ml Suspension,Nimesulide (100mg) , Paracetamol (500mg),General Medicine / Not Classified
+198162,Rofewal 12.5mg Tablet,13.0,False,Wallace Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Rofecoxib (12.5mg),,General Medicine / Not Classified
+156802,Nozicold DX Tablet,35.0,False,Ambic Ayurchem Ltd,allopathy,strip of 10 tablets,Chlorpheniramine Maleate (2mg) , Dextromethorphan Hydrobromide (15mg) ,General Medicine / Not Classified
+31642,Broncholik Syrup,46.0,False,SPS Medipol Pvt Ltd,allopathy,bottle of 100 ml Syrup,Terbutaline (1.25mg) , Bromhexine (4mg) ,General Medicine / Not Classified
+100724,Glimton M Forte 3mg/1000mg Tablet,125.0,False,Harisons life Science,allopathy,strip of 10 tablets,Glimepiride (3mg) , Metformin (1000mg),General Medicine / Not Classified
+59240,Dilgel,107.4,False,Cadila Pharmaceuticals Ltd,allopathy,tube of 30 gm Rectal Gel,Diltiazem (2% w/w),,General Medicine / Not Classified
+248108,Zestin 16mg Tablet,60.0,False,Alive Healthcare,allopathy,strip of 10 tablets,Betahistine (16mg),,General Medicine / Not Classified
+158566,Nasoran 0.05% Nasal Drops,41.3,False,Orange Biotech Pvt Ltd,allopathy,bottle of 10 ml Nasal Drops,Xylometazoline (0.05% w/v),,General Medicine / Not Classified
+87157,Finide 180mg Tablet,199.5,False,Indchemie Health Specialities Pvt Ltd,allopathy,strip of 10 tablets,Fexofenadine (180mg),,Antihistamine - Used for allergies
+113853,Iraphyn N 5mg/325mg/5mg Tablet,31.0,False,Biorika Healthcare,allopathy,strip of 10 tablets,Cetirizine (5mg) , Paracetamol (325mg) ,General Medicine / Not Classified
+80183,Esmoril D 30mg/40mg Capsule SR,106.0,False,Trillest Healthcare,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg),General Medicine / Not Classified
+27924,Beclotas N Ointment,27.0,False,Intas Pharmaceuticals Ltd,allopathy,tube of 15 gm Ointment,Beclometasone (NA) , Neomycin (NA),General Medicine / Not Classified
+12234,Aziashul 500mg Tablet,71.1,False,Pranshul Lifescience Pvt Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),,Antibiotic - Treats respiratory and skin infections
+231875,Ulerzine M Syrup,79.0,False,Striveo Healthcare Pvt Ltd,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg) , Montelukast (4mg),General Medicine / Not Classified
+194537,Retcil 10mg Tablet,78.0,False,Retra Life Science Pvt Ltd,allopathy,strip of 10 tablets,Cilnidipine (10mg),,General Medicine / Not Classified
+69339,Dapatrac M 10mg/500mg Tablet,170.0,False,Saanvika Pharma,allopathy,strip of 10 tablets,Dapagliflozin (10mg) , Metformin (500mg),General Medicine / Not Classified
+102251,Gilformin M Forte 1mg/1000mg Tablet SR,72.0,False,Levin Health Care,allopathy,strip of 10 tablet sr,Glimepiride (1mg) , Metformin (1000mg),General Medicine / Not Classified
+53615,Cefipal LB 200mg Tablet,137.0,False,Kyna Pharmaceuticals,allopathy,strip of 10 tablets,Cefixime (200mg) , Lactobacillus (60Million spores),General Medicine / Not Classified
+119707,Kosgra 100mg Tablet,120.0,False,Kosmed Formulations,allopathy,strip of 4 tablets,Sildenafil (100mg),,General Medicine / Not Classified
+253889,Zeloxa-TZ Suspension,55.0,False,Axis Life Science Pvt Ltd,allopathy,bottle of 30 ml Suspension,Ofloxacin (50mg) , Tinidazole (150mg),General Medicine / Not Classified
+252950,Zfflox 50mg Oral Suspension,35.0,False,Zicad Life Care,allopathy,bottle of 60 ml Oral Suspension,Ofloxacin (50mg/5ml),,General Medicine / Not Classified
+48382,Celtax 30mg Injection,1400.0,False,Celon Laboratories Ltd,allopathy,vial of 1 Injection,Paclitaxel (30mg),,General Medicine / Not Classified
+233035,Uzotram 500mg Injection,350.0,False,Novalab Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Aztreonam (500mg),,General Medicine / Not Classified
+204376,Synim-P Tablet,44.5,False,Sycap Pharma,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg),General Medicine / Not Classified
+251551,Zediflox OZ 200mg/500mg Tablet,80.0,False,Edison Organics Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg),General Medicine / Not Classified
+76767,Espentral-DSR Capsule,73.0,False,Arlak Biotech Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg),General Medicine / Not Classified
+60541,Dexadran 4mg Injection,5.54,False,Scott Edil Pharmacia Ltd,allopathy,vial of 2 ml Injection,Dexamethasone (4mg),,General Medicine / Not Classified
+77544,ETOGEM 120MG TABLET,139.0,False,Olamic Pharma Pvt. Ltd.,allopathy,strip of 10 tablets,Etoricoxib (120mg),,General Medicine / Not Classified
+139527,Misogest Kit,650.0,False,Elder Pharmaceuticals Ltd,allopathy,box of 1 Kit,Mifepristone (200mg) , Misoprostol (200mcg),General Medicine / Not Classified
+21443,Aldripod 200mg Tablet,160.0,False,Aldrin Pharma Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),,General Medicine / Not Classified
+252870,Zentor 750mg Tablet,100.0,True,Zuventus Healthcare Ltd,allopathy,strip of 10 tablets,Levofloxacin (750mg),,General Medicine / Not Classified
+182303,Pantoryl-DSR Capsule,100.0,False,Ryland Healthcare,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg),General Medicine / Not Classified
+89297,Feropace-S Injection,245.0,False,Avonic Life Sciences,allopathy,ampoule of 5 ml Injection,Iron Sucrose (100mg),,General Medicine / Not Classified
+32952,Banhelmin 400mg Tablet,7.13,False,Orchid Chemicals & Pharmaceuticals Ltd,allopathy,strip of 1 Tablet,Albendazole (400mg),,General Medicine / Not Classified
+31377,Biopod 100mg Tablet,130.0,False,Biosys Medisciences,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg),,General Medicine / Not Classified
+65704,Doloswin 650mg Tablet,18.75,False,Indmark Biotech Private Limited,allopathy,strip of 10 tablets,Paracetamol (650mg),,General Medicine / Not Classified
+160557,Nobspas-MR Tablet,56.0,False,Jayden Healthcare Pvt. Ltd.,allopathy,strip of 10 tablets,Chlorzoxazone (250mg) , Diclofenac (50mg) ,General Medicine / Not Classified
+77316,Eradiclav Duo Dry Syrup,60.45,False,Morepen Laboratories Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg),Antibiotic - Treats bacterial infections
+7256,Amoxyflux-CV 625 Tablet,201.0,False,Medflux Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),Antibiotic - Treats bacterial infections
+47473,Cepocure 200mg/125mg Tablet,160.0,False,Snyder Healthcare,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg),General Medicine / Not Classified
+154598,Notnow Kit,378.54,False,Unimarck Healthcare Ltd,allopathy,packet of 1 Kit,Mifepristone (200mg) , Misoprostol (200mcg),General Medicine / Not Classified
+136482,Macpod CV 50mg/31.25mg Tablet DT,70.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 6 tablet dt,Cefpodoxime Proxetil (50mg) , Clavulanic Acid (31.25mg),General Medicine / Not Classified
+242117,Welfix-O Tablet,140.0,False,Stenkem Molecules Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg),General Medicine / Not Classified
+43771,Clindid 600mg Injection,248.5,False,Ernst Pharmacia,allopathy,ampoule of 4 ml Injection,Clindamycin (600mg),,General Medicine / Not Classified
+75711,Ebmont 10mg Tablet,119.79,False,MMC Healthcare Ltd,allopathy,strip of 15 tablets,Montelukast (10mg),,General Medicine / Not Classified
+145893,Mcort 30mg Tablet,308.0,False,Comex Pharma,allopathy,strip of 10 tablets,Deflazacort (30mg),,General Medicine / Not Classified
+189225,Racezine 10mg Tablet,25.0,False,Race Pharmaceuticals pvt ltd,allopathy,strip of 10 tablets,Cetirizine (10mg),,General Medicine / Not Classified
+52053,Cefo AZ Kid 100mg/125mg Tablet,108.0,False,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Cefixime (100mg) , Azithromycin (125mg),General Medicine / Not Classified
+106704,Hacktus Pearls 5mg/2mg/10mg Soft Gelatin Capsule,60.6,False,Scieniq Healthcare Pvt Ltd,allopathy,strip of 10 soft gelatin capsules,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) ,General Medicine / Not Classified
+54964,Ceftrap 1000mg Injection,50.34,False,Labcorp India Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),,General Medicine / Not Classified
+127860,Lenocarb S 1000mg Suspension,69.2,False,Lincoln Pharmaceuticals Ltd,allopathy,bottle of 100 ml Suspension,Sucralfate (1000mg),,General Medicine / Not Classified
+113739,Imfrox 250mg Tablet,199.0,False,Impileo Lifescience,allopathy,strip of 6 tablets,Cefuroxime (250mg),,General Medicine / Not Classified
+173020,Ophed OZ Oral Suspension,38.0,False,Medilewis Biotech,allopathy,bottle of 30 ml Oral Suspension,Ofloxacin (50mg) , Ornidazole (125mg),General Medicine / Not Classified
+209339,Soltop M Cream,88.57,False,Brinton Pharmaceuticals Pvt Ltd,allopathy,tube of 20 gm Cream,Clobetasol (0.05% w/w) , Miconazole (2% w/w),General Medicine / Not Classified
+7138,Amirex 100mg Tablet,95.0,False,Bondane Pharma,allopathy,strip of 10 tablets,Amisulpride (100mg),,General Medicine / Not Classified
+184435,Rifastop 200 Tablet,175.0,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Rifaximin (200mg),,General Medicine / Not Classified
+54468,Cianpod 100mg Dry Syrup,125.0,False,Cian Health Care Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (100mg/5ml),,General Medicine / Not Classified
+65633,Diocid 20mg Capsule,42.12,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 capsules,Omeprazole (20mg),,General Medicine / Not Classified
+1028,Avapar Tablet,53.41,False,Khandelwal Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Camylofin (50mg) , Diclofenac (50mg),General Medicine / Not Classified
+59529,Dicloran 75mg Injection,24.85,False,Lekar Pharma Ltd,allopathy,vial of 3 ml Injection,Diclofenac (75mg),,General Medicine / Not Classified
+173457,Ofral-TZ 200mg/600mg Tablet,65.0,False,Hiral Labs Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Tinidazole (600mg),General Medicine / Not Classified
+182073,Pureflox C 200mg/200mg Tablet,159.6,False,Puremed Biotech,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg),General Medicine / Not Classified
+91323,Fornerv G 300mg/500mcg Capsule,120.0,False,Drug For Life India Pvt Ltd,allopathy,strip of 10 capsules,Gabapentin (300mg) , Methylcobalamin (500mcg),General Medicine / Not Classified
+242708,Walnac Aq 75mg Injection,17.0,False,Robins Remedies Pvt Ltd,allopathy,vial of 1 Injection,Diclofenac (75mg),,General Medicine / Not Classified
+247244,Zedtak 150mg Tablet,7.73,False,Sun Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Ranitidine (150mg),,General Medicine / Not Classified
+211048,Snezicold Tablet,38.0,False,Hochest Biotech India,allopathy,strip of 10 tablets,Caffeine (30mg) , Cetirizine (5mg) ,General Medicine / Not Classified
+121092,Lutrozole 2.5mg Tablet,198.65,True,Lupin Ltd,allopathy,strip of 5 tablets,Letrozole (2.5mg),,General Medicine / Not Classified
+222581,Teezol Topical Powder,65.0,False,Nidus Pharma Pvt Ltd,allopathy,box of 100 gm Powder,Clotrimazole (1% w/w),,General Medicine / Not Classified
+15300,Actnim P 100mg/325mg Tablet,37.5,False,Astakind Biotech Private Limited,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg),General Medicine / Not Classified
+30557,Bipnolol Plus 40mg/10mg Tablet SR,95.0,False,Curis Lifecare,allopathy,strip of 10 tablet sr,Propranolol (40mg) , Flunarizine (10mg),General Medicine / Not Classified
+86241,Fondastar 2.5mg Injection,655.0,False,Oaknet Healthcare Pvt Ltd,allopathy,packet of 0.5 ml Injection,Fondaparinux (2.5mg),,General Medicine / Not Classified
+191020,Rislin-Plus Tablet,50.0,False,Talin Remedies,allopathy,strip of 10 tablets,Risperidone (3mg) , Trihexyphenidyl (2mg),General Medicine / Not Classified
+121986,Lupizyme SF Syrup Sugar Free,125.0,False,Lupin Ltd,allopathy,bottle of 200 ml Syrup,Alpha-amylase (18.75mg) , Pepsin (12.5mg),General Medicine / Not Classified
+210156,Setam 800mg Tablet,105.0,False,Sunwin Healthcare,allopathy,strip of 10 tablets,Piracetam (800mg),,General Medicine / Not Classified
+47770,Cephalite 500mg Capsule,110.0,False,Elite Pharma Pvt Ltd,allopathy,strip of 10 capsules,Cefalexin (500mg),,General Medicine / Not Classified
+171461,Ogest Injection,188.0,False,Apcon Remedies,allopathy,box of 1 Injection,Hydroxyprogesterone (500mg),,General Medicine / Not Classified
+92119,Fexibast 10mg/120mg Tablet,135.0,False,Uninor Biotech,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg),General Medicine / Not Classified
+154407,Neurofine Plus Injection,78.0,False,Universal Micro Sciences,allopathy,vial of 2 ml Injection,Methylcobalamin (1000mcg) , Niacinamide (100mg) ,General Medicine / Not Classified
+186020,Raberide 20mg Tablet,10.0,False,Zeelab Pharmacy Pvt Ltd,allopathy,strip of 10 tablets,Rabeprazole (20mg),,General Medicine / Not Classified
+170793,Oframax 125mg Injection,14.79,False,Sun Pharmaceutical Industries Ltd,allopathy,vial of 1 Injection,Ceftriaxone (125mg),,General Medicine / Not Classified
+189889,Rovacor 10mg Tablet,50.05,False,Ranbaxy Laboratories Ltd,allopathy,strip of 10 tablets,Lovastatin (10mg),,General Medicine / Not Classified
+12092,Avelap 500mg Tablet SR,108.0,False,Athens Labs Ltd,allopathy,strip of 10 tablet sr,Divalproex (500mg),,General Medicine / Not Classified
+57976,Cefihexa 50mg Dry Syrup,44.0,False,Skywell Healthcare Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefixime (50mg/5ml),,General Medicine / Not Classified
+140097,Mantag-L Tablet,110.0,False,Grapple Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg),General Medicine / Not Classified
+20282,Azathis 200mg Oral Suspension,49.5,False,Mathis Pharma,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg),,Antibiotic - Treats respiratory and skin infections
+109577,Intor 20mg Tablet,71.25,False,Fenestra Pharmaceuticals,allopathy,strip of 10 tablets,Atorvastatin (20mg),,General Medicine / Not Classified
+12992,Atorsis 40mg Tablet,149.0,False,Tycoon Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (40mg),,General Medicine / Not Classified
+78793,Est 0.25mg/10mg Tablet,75.0,False,Jpee Drugs,allopathy,strip of 10 tablets,Clonazepam (0.25mg) , Escitalopram Oxalate (10mg),General Medicine / Not Classified
+187655,Rincet 10mg Tablet,21.05,False,Palsons Derma,allopathy,strip of 10 tablets,Cetirizine (10mg),,General Medicine / Not Classified
+96193,G2 MF 2mg/500mg Tablet,41.0,False,Welbe Life Sciences,allopathy,strip of 10 tablets,Glimepiride (2mg) , Metformin (500mg),General Medicine / Not Classified
+12717,Acnac SP 100 mg/500 mg/15 mg Tablet,24.48,False,Noel Pharma India Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) ,General Medicine / Not Classified
+195748,Rabifil D 30mg/20mg Capsule SR,59.0,False,Filant (India) Healthcare,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+250983,Zumrab D 30mg/20mg Capsule SR,92.0,False,Zumax Biocare,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg),General Medicine / Not Classified
+58770,Dosin-D Capsule,425.9,False,Corona Remedies Pvt Ltd,allopathy,strip of 10 capsules,Silodosin (8mg) , Dutasteride (0.5mg),General Medicine / Not Classified
+36370,Clobetagen M Cream,32.0,False,Alkem Laboratories Ltd,allopathy,tube of 15 gm Cream,Clobetasone (0.05% w/w) , Miconazole (2% w/w),General Medicine / Not Classified
+32328,Bactocod PT 4000mg/500mg Injection,425.0,False,Coddle Medichem,allopathy,vial of 10 ml Injection,Piperacillin (4000mg) , Tazobactum (500mg),General Medicine / Not Classified
+93601,Fildroxil Kid 125mg Tablet,19.0,False,Fillips Pharma,allopathy,strip of 10 tablets,Cefadroxil (125mg) , Lactobacillus Acidophilus (90Million spores),General Medicine / Not Classified
+57112,Ceftagos T 1000mg/125mg Injection,125.0,False,Segos Biocare,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Tazobactum (125mg),General Medicine / Not Classified
+244981,Xime 50mg Tablet,19.5,False,PCI Pharmaceuticals,allopathy,strip of 10 tablets,Cefuroxime (50mg),,General Medicine / Not Classified
+54342,Clobdell 0.05% Cream,90.0,False,Cadell Healthcare Pvt Ltd,allopathy,tube of 30 gm Cream,Clobetasol (0.05% w/w),,General Medicine / Not Classified
+40655,Clion 10mg Tablet,91.84,False,Alteus Biogenics Pvt Ltd,allopathy,strip of 10 tablets,Clobazam (10mg),,General Medicine / Not Classified
+187581,Rabifine LSR Capsule,170.0,False,Sunfine Healthcare,allopathy,strip of 10 capsule sr,Levosulpiride (75mg) , Rabeprazole (20mg),General Medicine / Not Classified
+32933,Babygest 300mg Tablet SR,489.9,False,Colosiem Health Care Pvt Ltd,allopathy,strip of 10 tablet sr,Progesterone (300mg),,General Medicine / Not Classified
+201050,Solidose Tablet,28.0,False,Noel Pharma India Pvt Ltd,allopathy,strip of 10 tablets,Caffeine (30mg) , Chlorpheniramine Maleate (4mg) ,General Medicine / Not Classified
+75028,Ellgesic-Plus Tablet,40.0,False,Ellanjey Lifesciences,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg),General Medicine / Not Classified
+85513,Falciart 60mg Injection,56.25,False,Intas Pharmaceuticals Ltd,allopathy,vial of 1 ml Injection,Artesunate (60mg),,General Medicine / Not Classified
+78694,Etzol 200mg Capsule,88.0,False,Cherrymed Pharmaceuticals,allopathy,strip of 4 capsules,Itraconazole (200mg),,General Medicine / Not Classified
+218136,Tadasure 10mg Tablet,38.5,True,Linux Laboratories,allopathy,strip of 15 tablets,Tadalafil (10mg),,General Medicine / Not Classified
+53650,Ceffblu 200mg Tablet DT,130.0,False,Bluewaterresearch,allopathy,strip of 10 tablet dt,Cefixime (200mg),,General Medicine / Not Classified
+208421,Sifcan 150mg Tablet,14.9,False,Sifco Pharma,allopathy,strip of 1 Tablet,Fluconazole (150mg),,General Medicine / Not Classified
+217327,Troflox OZ 200mg/500mg Tablet,107.8,False,Troikaa Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg),General Medicine / Not Classified
+19808,AMOPHEN FORTE 400MG/500MG TABLET,20.0,False,Ambrosia Pharma,allopathy,strip of 10 tablets,Ibuprofen (400mg) , Paracetamol (500mg),General Medicine / Not Classified
